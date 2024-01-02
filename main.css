@@ -1,0 +1,86 @@
+html
+{background-color: skyblue;}
+header{
+    padding: 5px;
+    background-color: skyblue;
+}
+body {
+    padding: 5px;
+    background-color: yellow;
+}
+
+ul a{
+    color: white;
+    text-decoration: none;
+    }
+    li{
+    display: inline-block;
+    height: 22px;
+    width: 100px;
+    padding: 12px;
+    text-align: center;
+    color: white;
+    border-left: 2px solid green;
+    border-right: 1px solid green;
+    background-color: olive;
+    }
+    li:hover{
+    background-color: lightgreen;
+    border-style: none;
+    }
+    h1{
+        color: whitesmoke;
+    margin-left: 45px;
+    }
+    h2{
+    padding-left: 25%;
+    padding-right: 25%;
+    margin-left: 45px;
+    }
+    p{
+        padding-left: 25%;
+        padding-right: 25%;
+    margin-left: 45px;
+    max-width: 500px;
+    }
+    img{
+        padding-left: 25%;
+        padding-right: 25%;
+        margin-left: 45px;
+        height: 400px;
+        width: 300px;
+    }
+    footer{
+        padding: 5px;
+        margin-left: 500px;
+        background-color: skyblue;
+    }
+    
+input{
+    padding-left: 25%;
+    padding-right: 25%;
+    display: block;
+    margin-left: 45px;
+}
+textarea{
+    padding-left: 25%;
+    padding-right: 25%;
+    display: block;
+    margin-left: 45px;
+}
+label{
+    padding-left: 25%;
+    padding-right: 25%;
+    margin-left: 40px;
+}
+table{
+    padding-left: 25%;
+    padding-right: 25%;
+}
+    #whi {
+        color: grey;
+    }
+    form{
+        padding-left: 25%;
+        padding-right: 25%;
+    }
